@@ -1,0 +1,7 @@
+boto3==1.35.87
+litellm==1.55.12
+langchain==0.3.13
+llama-index==0.12.8
+sagemaker==2.237.1
+torch==2.5.1
+wandb==0.19.1
