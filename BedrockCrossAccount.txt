@@ -1,1 +1,0 @@
-arn:aws:iam::605134468121:role/BedrockCrossAccount
